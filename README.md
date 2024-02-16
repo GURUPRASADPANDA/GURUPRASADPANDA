@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @GURUPRASADPANDA
+- 👀 I’m interested in new technology
+- 🌱 I’m currently learning Development and DSA
+- ⚡ Fun fact: If your code is runing donot touch it.
