@@ -27,8 +27,21 @@ I love learning new tools, building scalable systems, contributing to open sourc
 
 ## 📈 GitHub Statistics
 
-![Guru's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GURUPRASADPANDA&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GURUPRASADPANDA&layout=compact&theme=tokyonight)  
+<table>
+<tr>
+<td>
+
+![Guru's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GURUPRASADPANDA&show_icons=true&theme=tokyonight)
+
+</td>
+<td>
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GURUPRASADPANDA&layout=compact&theme=tokyonight)
+
+</td>
+</tr>
+</table>
+
 ![GitHub Streak](https://streak-stats.demolab.com?user=GURUPRASADPANDA&theme=tokyonight)
 
 ---
