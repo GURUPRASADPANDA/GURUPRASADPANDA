@@ -1,16 +1,51 @@
-## Hi there 👋
+## 🏅 Holopin Badges
 
-<!--
-**GURUPRASADPANDA/GURUPRASADPANDA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Holopin Badges](https://holopin.io/api/user/board?user=guruprasadpanda)](https://www.holopin.io/@guruprasadpanda)
 
-Here are some ideas to get you started:
+> 🎖️ Click above to view all my Holopin achievements!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+# 👋 Hi there! I'm **Guru Prasad Panda**
+
+💻 **Cloud and DevOps Enthusiast** | ☁️ **Open Source Contributor** | 🤝 **Collaboration Friendly**
+
+I'm passionate about automation, CI/CD, containers, and cloud technologies.  
+I love learning new tools, building scalable systems, contributing to open source, and collaborating on impactful projects. 🚀
+
+---
+
+## 💡 About Me
+
+- 🌱 Currently learning **DevOps** and **Cloud Computing**
+- ☁️ Interested in **AWS**, **Docker**, **Kubernetes**, and **CI/CD pipelines**
+- 🧑‍💻 Passionate about **Open Source contributions**
+- 🤝 Open for **collaboration** on exciting and meaningful projects
+- 💬 Ask me about **Linux**, **GitHub Actions**, or **Cloud fundamentals**
+
+---
+
+## 📈 GitHub Statistics
+
+![Guru's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GURUPRASADPANDA&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GURUPRASADPANDA&layout=compact&theme=tokyonight)  
+![GitHub Streak](https://streak-stats.demolab.com?user=GURUPRASADPANDA&theme=tokyonight)
+
+---
+
+## 🐍 Contribution Snake
+
+![GitHub Contribution Snake](https://raw.githubusercontent.com/GURUPRASADPANDA/GURUPRASADPANDA/output/github-contribution-grid-snake.svg)
+
+---
+
+## 📫 Connect With Me
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guruprasadpanda2027@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guruprasadpanda/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/guruprasadpanda_/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GURUPRASADPANDA)
+
+---
+
+⭐ *Thanks for visiting my profile! Let’s connect, learn, and build together.* ✨
