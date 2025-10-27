@@ -1,6 +1,5 @@
 ## 🏅 Holopin Badges
 
-[![Holopin Badges](https://holopin.io/api/user/board?user=guruprasadpanda)](https://www.holopin.io/@guruprasadpanda)
 
 > 🎖️ Click above to view all my Holopin achievements!
 
