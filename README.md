@@ -37,7 +37,7 @@ I love learning new tools, building scalable systems, contributing to open sourc
 <tr>
 <td>
 
-![Guru's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GURUPRASADPANDA&show_icons=true&theme=tokyonight)
+## ![Guru's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GURUPRASADPANDA&show_icons=true&theme=tokyonight)
 
 </td>
 <td>
@@ -60,5 +60,4 @@ I love learning new tools, building scalable systems, contributing to open sourc
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GURUPRASADPANDA)
 
 ---
-
 ⭐ *Thanks for visiting my profile! Let’s connect, learn, and build together.* ✨
